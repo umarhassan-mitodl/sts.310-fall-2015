@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ]
+  ],
+  "legacy_uid": "472dcb8e-2be0-28dd-cc76-39397045f664",
+  "instructors": {
+    "content": [
+      "a1de805f-0dbd-7af0-390f-1b0d384f502a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4fd7053a-21a2-d566-8313-26378912cb2f",
+    "website": "sts-310-history-of-science-fall-2015"
+  },
+  "course_title": "History of Science",
+  "hide_download": true,
+  "course_description": "This course offers an introduction to the history and historiography of science from ancient Greece to the present. It is designed to serve as an introduction for those who have no prior background in the field and to deepen the knowledge of those who already do. We will consider how the history of science has responded to its encounters with philosophy, sociology, economics, and anthropology. Our readings and discussions will focus on determining what makes particular works effective, understanding major contemporary trends and debates in the history of science, and establishing resources for further research.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.310",
+  "course_image_thumbnail": {
+    "content": "16bd1128-5824-806c-9df7-0bcbefba7f29",
+    "website": "sts-310-history-of-science-fall-2015"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "9fdabe3e-cc3d-4ee3-a97d-3fe2f994e3cc",
+  "site_short_id": "sts.310-fall-2015",
+  "site_url_path": "courses/sts-310-history-of-science-fall-2015",
+  "title": "Course Metadata"
+}
